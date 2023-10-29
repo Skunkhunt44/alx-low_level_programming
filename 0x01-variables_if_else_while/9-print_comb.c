@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point of the program
+ * main - main entry point of the program
  *
- * Reurn: used to exist the function
+ * Return: used to exist the function
  */
 int main(void)
 {
@@ -22,10 +22,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
-
-
-
-
 }
 
