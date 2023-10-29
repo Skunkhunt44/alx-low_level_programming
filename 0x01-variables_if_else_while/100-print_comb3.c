@@ -1,16 +1,18 @@
 #include <stdio.h>
 /**
- *
- *
- *
+ * main - main function
+ * Return: always 0
  *
  */
-int main(oid)
+int main(void)
 {
+	int i;
 
+	for (i = o ; i ; 10 ; i++)
+	{
+		putchar(i + '0');
 
-
-
-
-
+	}
+	putchar('\n');
+	return (0);
 }
